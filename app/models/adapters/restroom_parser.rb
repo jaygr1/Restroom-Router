@@ -25,6 +25,7 @@ class RestroomParser
       end  
     end
   end
+  RestroomParser.formatted_data
 
 end
 end
